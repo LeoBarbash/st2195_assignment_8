@@ -1,1 +1,2 @@
 # st2195_assignment_8
+The repository contains 3 Python scripts and 3 csv-files. The assignment_8_1.ipynb contains graphs describing the Titanic disaster. The assignment_8_2.ipynb contains three network graphical representations of the latest bilateral trade data for the G7. Weights of connections represented in USD sum of export and import between states. The assignment_8_3.ipynb compares the latest data and the data a year ago.
