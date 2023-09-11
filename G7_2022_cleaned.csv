@@ -1,0 +1,49 @@
+,Country Name,Country Code,Indicator Name,Indicator Code,Counterpart Country Name,Counterpart Country Code,Attribute,2022Q1
+0,Italy,136,Export,TXG_FOB_USD,Japan,158,Value,2394274120
+1,Canada,156,Import,TMG_FOB_USD,France,132,Value,1283304964
+2,Italy,136,Export,TXG_FOB_USD,United States,111,Value,15509610186
+3,Canada,156,Export,TXG_FOB_USD,France,132,Value,674313030
+4,Japan,158,Export,TXG_FOB_USD,Germany,134,Value,5044573415
+5,Canada,156,Export,TXG_FOB_USD,Italy,136,Value,505406779
+6,United Kingdom,112,Export,TXG_FOB_USD,Germany,134,Value,11139491842
+7,Germany,134,Export,TXG_FOB_USD,France,132,Value,31458683600
+8,France,132,Export,TXG_FOB_USD,Japan,158,Value,1817686651
+9,Italy,136,Export,TXG_FOB_USD,France,132,Value,16813459078
+10,United States,111,Export,TXG_FOB_USD,Canada,156,Value,82412770624
+11,Canada,156,Import,TMG_FOB_USD,Italy,136,Value,2016221596
+12,Italy,136,Export,TXG_FOB_USD,Germany,134,Value,21936133495
+13,United States,111,Export,TXG_FOB_USD,France,132,Value,10580857569
+14,Canada,156,Import,TMG_FOB_USD,Germany,134,Value,3763096178
+15,France,132,Export,TXG_FOB_USD,Italy,136,Value,14173520167
+16,United Kingdom,112,Export,TXG_FOB_USD,Japan,158,Value,1898033329
+17,Japan,158,Export,TXG_FOB_USD,France,132,Value,1650279747
+18,United States,111,Export,TXG_FOB_USD,Italy,136,Value,6592644918
+19,United States,111,Export,TXG_FOB_USD,Japan,158,Value,19925371862
+20,Japan,158,Export,TXG_FOB_USD,United States,111,Value,33950847478
+21,Japan,158,Export,TXG_FOB_USD,Canada,156,Value,2284745962
+22,Canada,156,Import,TMG_FOB_USD,United States,111,Value,63557840101
+23,Germany,134,Export,TXG_FOB_USD,United Kingdom,112,Value,19979762710
+24,United States,111,Export,TXG_FOB_USD,United Kingdom,112,Value,17194399175
+25,Canada,156,Import,TMG_FOB_USD,Japan,158,Value,3220042334
+26,Italy,136,Export,TXG_FOB_USD,United Kingdom,112,Value,7358028238
+27,Germany,134,Export,TXG_FOB_USD,Canada,156,Value,3241152708
+28,France,132,Export,TXG_FOB_USD,United Kingdom,112,Value,8977892757
+29,France,132,Export,TXG_FOB_USD,United States,111,Value,12229909932
+30,France,132,Export,TXG_FOB_USD,Germany,134,Value,22318426137
+31,United Kingdom,112,Export,TXG_FOB_USD,United States,111,Value,14687272382
+32,United Kingdom,112,Export,TXG_FOB_USD,Italy,136,Value,2926835351
+33,United Kingdom,112,Export,TXG_FOB_USD,France,132,Value,6938946514
+34,Canada,156,Export,TXG_FOB_USD,Japan,158,Value,3378007907
+35,United Kingdom,112,Export,TXG_FOB_USD,Canada,156,Value,1725130292
+36,Germany,134,Export,TXG_FOB_USD,Italy,136,Value,23801689264
+37,Germany,134,Export,TXG_FOB_USD,Japan,158,Value,5840716686
+38,Germany,134,Export,TXG_FOB_USD,United States,111,Value,38883062208
+39,Canada,156,Export,TXG_FOB_USD,United States,111,Value,108593219819
+40,Canada,156,Export,TXG_FOB_USD,United Kingdom,112,Value,3676399347
+41,Canada,156,Export,TXG_FOB_USD,Germany,134,Value,1300311228
+42,Japan,158,Export,TXG_FOB_USD,Italy,136,Value,1347498830
+43,Japan,158,Export,TXG_FOB_USD,United Kingdom,112,Value,2967908421
+44,France,132,Export,TXG_FOB_USD,Canada,156,Value,1029540255
+45,Canada,156,Import,TMG_FOB_USD,United Kingdom,112,Value,1473042619
+46,Italy,136,Export,TXG_FOB_USD,Canada,156,Value,1460842170
+47,United States,111,Export,TXG_FOB_USD,Germany,134,Value,17196846477
